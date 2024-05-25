@@ -1,0 +1,795 @@
+@media (max-width: 1500px) {
+   .content_hero h1 {
+    font-size: 40px;
+    line-height: 52px;
+}
+.content_hero h1 span {
+    color: #3F5CB1;
+    line-height: 52px;
+}
+.contact_me_section .d-flex.btn button {
+    padding: 16px 121px;
+}
+.black {
+    height: 155px;
+}
+.container {
+    padding: 0 68px;
+}
+.image_box img {
+    width: 450px;
+}
+.section_padding {
+    overflow: hidden;
+}
+.bottom_section button {
+    font-size: 18px;
+}
+body {
+    background-image: url(../image/realcolour.jpg);
+
+}
+.content_hero {
+    padding: 102px 0px;
+}
+.logo_slider {
+    padding-top: 200px;
+}
+.company_section {
+    padding-top: 170px;
+}
+.pt_top {
+    margin-top: 163px;
+}
+.section_title h2 {
+    font-size: 48px;
+}
+.section_title p {
+    font-size: 20px;
+    line-height: 38px;
+}
+.company_content_box h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.company_content_box p {
+    font-size: 20px;
+    line-height: 38px;
+}
+.about_content_box h2 {
+    font-size: 48px;
+}
+.image_skills_box h2 {
+    font-size: 48px;
+    line-height: 65px;
+}
+.institution_content h2 {
+    font-size: 48px;
+    line-height: 65px;
+}
+.institution_image {
+    left: 64px;
+}
+.box_content_scientific h3 {
+    font-size: 40px;
+    line-height: 50px;
+}
+.content_box_scifi p {
+    font-size: 18px;
+    line-height: 30px;
+}
+.honors_awards_section .section_title h2 {
+    font-size: 48px;
+    line-height: 48px;
+}
+.link_honors a {
+    font-size: 20px;
+    line-height: 30px;
+}
+.honors_awards_section .row {
+    padding: 0px 120px;
+}
+.content_network h3 {
+    font-size: 30px;
+    line-height: 44px;
+}
+.content_network p {
+    font-size: 18px;
+    line-height: 28px;
+}
+.box_row_inner {
+    margin-left: 208px;
+}
+.box_inner_net img {
+    width: 305px;
+}
+.head_title h2 {
+    font-size: 32px;
+}
+.head_title a {
+    font-size: 20px;
+    line-height: 30px;
+}
+.box_footer ul li {
+    font-size: 18px;
+}
+.bottom_section {
+    font-size: 18px;
+    line-height: 36px;
+}
+.circle img {
+    width: 120px;
+}
+.circle {
+    top: -35%;
+    left: 17%;
+}
+
+.image_icon_box img {
+    width: 70px;
+}
+.imgw_icon4 {
+    margin-top: -1px;
+    margin-left: -4px;
+}
+.imgw_icon {
+    margin-top: -1px;
+    margin-left: 5px;
+}
+.imgw_icon6 {
+    margin-top: 0px;
+    margin-left: -14px;
+}
+.imgw_icon7 {
+    margin-top: -2px;
+    margin-left: 11px;
+}
+.image_box {
+    margin-top: 0px;
+    margin-left: -130px;
+}
+.image_skills_box h2 {
+    top: 211px;
+    right: 34%;
+}
+.contact_me_section .d-flex.btn {
+    left: 6px;
+}
+.metst {
+    margin-left: 404px;
+}
+.network_section .section_title {
+    width: 850px;
+}
+img.icon_bpx {
+    margin-left: -2px;
+    margin-top: -2px;
+}
+img.icon1-book3 {
+    margin-left: 1px;
+    margin-top: -8px;
+}
+.box_footer {
+    width: 694px;
+}
+} 
+@media (max-width: 1400px) {
+.about_content_box {
+    padding: 30px 28px;
+}
+.container {
+    padding: 0 30px;
+}
+.honors_awards_section .row {
+    padding: 0px 70px;
+}
+.circle {
+    top: -31%;
+    left: 12%;
+}
+}
+@media (max-width: 1024px) {
+
+.contact_bbox {
+    margin-left: 0;
+}
+.contact_bbox a {
+    font-size: 25px;
+}
+.contact_bbox.boox_bg ul li {
+    margin-right: 3px;
+}
+.container {
+    padding: 0;
+}
+.content_hero h1 {
+    font-size: 30px;
+    line-height: 36px;
+}
+.image_box img {
+    width: 360px;
+}
+.content_hero h1 span {
+    line-height: 36px;
+}
+.logo_slider {
+    padding-top: 50px;
+}
+.logo_slider .circle img {
+    width: 100px;
+}
+.section_title h2 {
+    font-size: 40px;
+    line-height: 46px;
+}
+.section_title p {
+    font-size: 16px;
+    line-height: 20px;
+}
+.company_content_box h2 {
+    font-size: 30px;
+    line-height: 36px;
+}
+.company_content_box p {
+    font-size: 16px;
+    line-height: 22px;
+}
+.company_image {
+    text-align: center;
+}
+.company_section .container {
+    padding: 0px 80px;
+}
+.about_section {
+    padding: 108px 0px;
+}
+.about_content_box h2 {
+    font-size: 40px;
+    line-height: 38px;
+}
+.about_content_box h3 {
+    font-size: 20px;
+}
+.about_content_box small {
+    font-size: 16px;
+
+}
+.about_content_box p {
+    font-size: 16px;
+    line-height: 24px;
+}
+section.skills_section.section_padding {
+    margin-top: 83px;
+}
+.image_skills_box h2 {
+    font-size: 40px;
+    line-height: 30px;
+}
+.image_skills_box h2 {
+    right: 27%;
+    top: 221px;
+}
+.institution_content h2 {
+    font-size: 40px;
+    line-height: 30px;
+}
+.institution_image {
+    left: 32px;
+}
+.scientific_box h3 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 12px;
+}
+.scientific_box a {
+    font-size: 15px;
+    line-height: 35px;
+}
+.box_content_scientific h3 {
+    font-size: 30px;
+    line-height: 31px;
+}
+.line_line svg {
+    width: 100%;
+}
+.content_box_scifi p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.honors_awards_section .row {
+    padding: 0px 18px;
+}
+.col-lg-6.box_inner.box_tow {
+    width: 386px;
+    margin-left: 40px;
+}
+.content_network h3 {
+    font-size: 24px;
+    line-height: 35px;
+}
+.content_network img {
+    width: 30px;
+}
+.box_row_inner {
+    margin-left: 156px;
+    position: relative;
+    left: -20px;
+}
+.tow_center {
+    margin-left: 6px;
+}
+.head_title h2 {
+    font-size: 28px;
+    line-height: 20px;
+}
+
+.circle {
+    top: -21%;
+    left: 14%;
+}
+.content_box_scifi a {
+    font-size: 20px;
+    line-height: 30px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 12px 8px;
+}
+.bottom_section button {
+    margin-top: -4px;
+}
+.metst {
+    margin-left: 316px;
+}
+.black {
+    height: auto;
+}
+.network_section .section_title {
+    width: 612px;
+}
+img.icon1 {
+    margin-left: 3px;
+    margin-top: -6px;
+}
+}
+@media (max-width: 991px) {
+.navbar-toggler-icon {
+    background-image: url(../image/menuicon.svg);
+}
+.image_box img {
+    display: none;
+}
+img.icon1-book3 {
+    margin-left: 1px;
+    margin-top: -1px;
+}
+button.navbar-toggler {
+    border: none;
+    outline: none;
+}
+.magnet-circle {
+    display: none;
+}
+.magnet-cursor {
+    display: none;
+}
+button{
+    outline: none;
+}
+.navbar-toggler:focus {
+    box-shadow: none;
+}
+.black {
+    background: linear-gradient(180deg,#0f1d47 19.27%,rgba(32,20,61,0));
+    z-index: 99999;
+     transition: opacity .83333s cubic-bezier(.53,0,.41,1);
+}
+.navbar-nav {
+    width: 100%;
+}
+.navbar-collapse {
+    background: #0f1d47;
+    padding: 20px 0px;
+}
+.header {
+    background: #0f1d47;
+    transition: opacity .83333s cubic-bezier(.53,0,.41,1);
+}
+.navbar-nav {
+    background: transparent;
+}
+.nav-item {
+    padding: 10px 0px;
+}
+a.navbar-brand img {
+    width: 60px;
+}
+.navbar {
+    padding: 7px 0px;
+}
+.nav-item {
+    display: block;
+}
+.content_hero {
+    padding: 12px 0px;
+}
+.image_box img {
+    width: 100%;
+}
+.image_skills_box h2 {
+    right: 28%;
+    top: 132px;
+    font-size: 30px;
+}
+.box_row_inner {
+    left: 0;
+}
+
+.desh_img{
+    display: none;
+}
+.nav-link.active {
+    display: inline-block;
+}
+.logo_slider {
+    overflow: hidden;
+}
+}
+@media (max-width: 768px) {
+    .content_box_scifi a {
+    font-size: 16px;
+    line-height: 26px;
+}
+.link_honors a {
+    font-size: 16px;
+    line-height: 24px;
+}
+    .metst {
+    margin-left: 0;
+}
+.d-flex.btn button {
+    padding: 16px 30px;
+}
+.hero_area .d-flex.btn button {
+    padding: 16px 30px;
+}
+.image_box {
+    text-align: left;
+}
+.image_box img {
+    width: 100%;
+    margin-top: -128px;
+}
+.d-flex.btn {
+    width: 150px;
+}
+body {
+    height: 100%;
+}
+section.logo_slider .col {
+    width: 50%;
+    max-width: 140px;
+}
+.link_content li {
+    width: 113px;
+}
+.logo_slider .circle img {
+    width: 94px;
+}
+.circle {
+    top: -22%;
+    left: 6%;
+}
+.imgw_icon4 {
+    margin-top: -4px;
+    margin-left: -4px;
+}
+img.icon_bpx {
+    width: 55px;
+}
+img.icon1-book3 {
+    width: 60px;
+}
+.hero_area .d-flex.btn {
+    margin-top: 22px;
+}
+.hero_area {
+    padding-top: 110px;
+}
+.content_hero h2 {
+    margin-top: 8px;
+}
+.company_section {
+    padding-top: 67px;
+}
+.section_title {
+    width: 539px;
+    margin-bottom: 84px;
+}
+.pt_top {
+    margin-top: 94px;
+}
+.about_section {
+    padding: 55px 0px;
+}
+section.skills_section.section_padding {
+    margin-top: 0;
+}
+.institution_content h2 {
+    font-size: 30px;
+}
+.section_padding {
+    padding: 30px 0px;
+}
+.box_inner {
+    padding: 12px;
+    position: relative;
+}
+.col-lg-6.box_inner.box_tow {
+    width: 200px;
+    margin-left: 75px;
+}
+.bg_bg_img img{
+    width: 200px;
+}
+.box_row_inner {
+    margin-left: 0;
+}
+.network_section .section_title {
+    width: 100%;
+}
+}
+@media (max-width: 767px) {
+    .logo_slider {
+    overflow: hidden;
+}
+.container {
+    padding: 0px 20px;
+}
+a.navbar-brand img {
+    width: 44px;
+}
+.navbar {
+    padding: 13px 0px;
+}
+section.hero.area {
+    padding-top: 45px;
+}
+section.logo_slider .col {
+    max-width: 102px;
+    margin-top: 53px;
+}
+.circle {
+    margin-bottom: 15px;
+}
+.head_title {
+    width: 100%;
+}
+.head_title h2 {
+    font-size: 30px;
+}
+
+.contact_bbox {
+    margin-left: 0;
+    margin-top: 48px;
+}
+.contact_bbox a {
+    font-size: 20px;
+}
+.link_content li {
+    width: 100%;
+    margin-bottom: 20px;
+}
+.content_hero h1 {
+    font-size: 22px;
+}
+.content_hero p {
+    width: 100%;
+}
+.content_hero h1 {
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+.hero_area .d-flex.btn button {
+    margin-top: 0;
+}
+.hero_area .d-flex.btn {
+    padding: 0;
+}
+.content_hero h1 span {
+    line-height: 25px;
+}
+.content_hero h2 {
+    font-size: 20px;
+    line-height: 44px;
+}
+.content_hero p {
+    font-size: 15px;
+    line-height: 24px;
+}
+.hero_area .d-flex.btn {
+    width: 181px;
+}
+.logo_slider .circle img {
+    width: 92px;
+}
+.image_icon_box img {
+    width: 63px;
+}
+.circle {
+    top: -25%;
+    left: 6%;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    width: auto;
+}
+.section_title {
+    width: 100%;
+}
+.company_section .container {
+    padding: 0px 25px;
+}
+.mobile_ver{
+    display: block;
+}
+.deshtop_version{
+    display: none;
+}
+.about_section {
+    padding: 120px 0px;
+}
+.image_skills_box h2 {
+    right: 26%;
+    top: 52px;
+    font-size: 19px;
+}
+.institution_image {
+    left: 0;
+}
+.section_title h2 {
+    font-size: 30px;
+    line-height: 46px;
+}
+.scientific_box {
+    padding: 0px;
+}
+.line_line {
+    margin-top: 22px;
+}
+.image_box_scifi img {
+    width: auto;
+}
+.content_box_scifi {
+    margin-top: 30px;
+}
+.col-lg-6.box_inner.box_tow {
+    margin-left: 0;
+}
+.last_image img{
+    width: 330px;
+}
+.head_title h2 {
+    line-height: 36px;
+}
+.bottom_section {
+    line-height: 27px;
+}
+.bottom_section {
+    top: -25px;
+}
+.box_footer ul {
+    padding: 0;
+    display: block;
+}
+.box_footer {
+    width: 100%;
+}
+.box_footer ul li {
+    margin-bottom: 30px;
+}
+.text_font_bt {
+    margin-bottom: 0 !important;
+}
+.icon_bpx {
+    width: 52px !important;
+}
+.honors_awards_section .section_title h2 {
+    font-size: 30px;
+}
+.image_box img {
+    width: 100%;
+}
+.company_content_box {
+    width: 100%;
+    margin-bottom: 40px;
+}
+.image_box {
+    margin-top: 65px;
+    margin-left: 0;
+}
+.contact_me_section .d-flex.btn button {
+    padding: 12px 75px;
+}
+.contact_me_section .d-flex.btn button {
+    padding: 12px 49px;
+}
+.box_inner {
+    margin-bottom: 25px;
+}
+.content_box_scifi a {
+    font-size: 15px;
+    line-height: 22px;
+}
+.network_section .col-lg-4 {
+    margin-bottom: 40px;
+}
+body {
+    background-image: url(../image/bg-mobile.svg);
+}
+.logo_slider {
+    padding-top: 0;
+}
+.network_section .section_title p {
+    width: 100%;
+    margin: 0 auto;
+}
+.contact_me_section .d-flex.btn {
+    left: 0;
+}
+.navbar-nav {
+    padding: 12px 0px;
+}
+}
+@media (max-width: 390px) {
+section.logo_slider .col {
+    max-width: 92px;
+    display: inline-block;
+    padding: 13px;
+    width: 100%;
+}
+.logo_slider .row {
+    margin-top: 0;
+}
+.logo_slider .circle img {
+    width: 75px;
+}
+.image_icon_box img {
+    width: 51px;
+}
+.circle {
+    top: 1%;
+    left: 7%;
+}
+.imgw_icon7 {
+    margin-top: -1px;
+    margin-left: -4px;
+}
+.imgw_icon {
+    margin-top: -1px;
+    margin-left: -2px;
+    position: relative;
+    left: 1px;
+}
+.icon_bpx {
+    width: 44px !important;
+    margin-left: -2px;
+}
+img.icon1-book3 {
+    width: 47px;
+    margin-left: -4px;
+}
+.imgw_icon6 {
+    margin-top: 0px;
+    margin-left: -18px;
+}
+.nav-link.active {
+    padding: 11px 20px !important;
+}
+.contact_me_section .d-flex.btn button {
+    padding: 14px 44px;
+    font-size: 18px;
+}
+.contact_me_section .d-flex.btn {
+    left: 0;
+}
+}
